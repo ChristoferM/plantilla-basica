@@ -1,0 +1,46 @@
+.centrado{
+    padding: 2%;
+    background-color: tomato;
+    display: flex;
+  justify-content: center;
+}
+.centradoSimple{
+    display: flex;
+    justify-content: center;
+}
+.seccion1{
+    padding: 3%;
+    
+    display: flex;
+    justify-content: center;
+}
+.colorTitle{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.subDivision{
+    margin: 2%;
+}
+.subCard{
+    width: 50%;
+}
+.subDivisionpa{
+    padding:2%;
+}
+.subColor{
+    background-color: rgb(250, 89, 60);
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.form-division{
+    padding:  10%;
+    padding-top: 0;
+    
+}
